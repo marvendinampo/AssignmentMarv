@@ -1,0 +1,10 @@
+C:\Users\user\Documents\IT 413\DinampoAssignment\DinampoAssignment\DinampoAssignment\bin\Debug\DinampoAssignment.exe.config
+C:\Users\user\Documents\IT 413\DinampoAssignment\DinampoAssignment\DinampoAssignment\bin\Debug\DinampoAssignment.exe
+C:\Users\user\Documents\IT 413\DinampoAssignment\DinampoAssignment\DinampoAssignment\bin\Debug\DinampoAssignment.pdb
+C:\Users\user\Documents\IT 413\DinampoAssignment\DinampoAssignment\DinampoAssignment\obj\Debug\DinampoAssignment.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\IT 413\DinampoAssignment\DinampoAssignment\DinampoAssignment\obj\Debug\DinampoAssignment.main.resources
+C:\Users\user\Documents\IT 413\DinampoAssignment\DinampoAssignment\DinampoAssignment\obj\Debug\DinampoAssignment.main2.resources
+C:\Users\user\Documents\IT 413\DinampoAssignment\DinampoAssignment\DinampoAssignment\obj\Debug\DinampoAssignment.Properties.Resources.resources
+C:\Users\user\Documents\IT 413\DinampoAssignment\DinampoAssignment\DinampoAssignment\obj\Debug\DinampoAssignment.csproj.GenerateResource.Cache
+C:\Users\user\Documents\IT 413\DinampoAssignment\DinampoAssignment\DinampoAssignment\obj\Debug\DinampoAssignment.exe
+C:\Users\user\Documents\IT 413\DinampoAssignment\DinampoAssignment\DinampoAssignment\obj\Debug\DinampoAssignment.pdb
